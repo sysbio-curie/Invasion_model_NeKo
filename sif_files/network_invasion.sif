@@ -1,0 +1,742 @@
+# Reference PMID: SIF file
+TP73	stimulation	apoptotic_process
+# Reference PMID: SIF file
+SMAD6	inhibition	TGFBR1
+# Reference PMID: SIF file
+SMAD6	inhibition	SMAD3
+# Reference PMID: SIF file
+SMAD6	inhibition	SMAD1
+# Reference PMID: SIF file
+SMAD6	inhibition	epithelial_to_mesenchymal_transition
+# Reference PMID: SIF file
+SNAI2	inhibition	ESR1
+# Reference PMID: SIF file
+SNAI2	inhibition	CDH1
+# Reference PMID: SIF file
+SNAI2	stimulation	CCND1
+# Reference PMID: SIF file
+SNAI2	stimulation	JAG1
+# Reference PMID: SIF file
+SNAI2	stimulation	apoptotic_process
+# Reference PMID: SIF file
+SNAI2	stimulation	cell-cell_adhesion
+# Reference PMID: SIF file
+SNAI2	stimulation	cell-matrix_adhesion
+# Reference PMID: SIF file
+SNAI2	stimulation	cell_migration
+# Reference PMID: SIF file
+SNAI2	stimulation	epithelial_to_mesenchymal_transition
+# Reference PMID: SIF file
+SNAI2	stimulation	extracellular_matrix_disassembly
+# Reference PMID: SIF file
+ZEB2	inhibition	CDH1
+# Reference PMID: SIF file
+ZEB2	stimulation	CTBP1
+# Reference PMID: SIF file
+DAB1	stimulation	NOTCH1
+# Reference PMID: SIF file
+TRIO	stimulation	RAC1
+# Reference PMID: SIF file
+TRIO	stimulation	apoptotic_process
+# Reference PMID: SIF file
+TRIO	stimulation	cell-cell_adhesion
+# Reference PMID: SIF file
+DKK1	stimulation	apoptotic_process
+# Reference PMID: SIF file
+DKK1	inhibition	cell-cell_adhesion
+# Reference PMID: SIF file
+SNAI1	inhibition	CDH1
+# Reference PMID: SIF file
+SNAI1	stimulation	CTBP1
+# Reference PMID: SIF file
+SNAI1	stimulation	epithelial_to_mesenchymal_transition
+# Reference PMID: SIF file
+ABL1	stimulation	TP73
+# Reference PMID: SIF file
+ABL1	stimulation	ESR1
+# Reference PMID: SIF file
+ABL1	stimulation	YAP1
+# Reference PMID: SIF file
+ABL1	inhibition	MDM2
+# Reference PMID: SIF file
+ABL1	stimulation	PRKD1
+# Reference PMID: SIF file
+ABL1	stimulation	TP63
+# Reference PMID: SIF file
+ABL1	stimulation	apoptotic_process
+# Reference PMID: SIF file
+ABL1	stimulation	cell-cell_adhesion
+# Reference PMID: SIF file
+ABL1	stimulation	cell-matrix_adhesion
+# Reference PMID: SIF file
+ABL1	stimulation	cell_division
+# Reference PMID: SIF file
+ABL1	inhibition	cell_migration
+# Reference PMID: SIF file
+ABL1	stimulation	epithelial_to_mesenchymal_transition
+# Reference PMID: SIF file
+MYC	inhibition	DKK1
+# Reference PMID: SIF file
+MYC	stimulation	CCND1
+# Reference PMID: SIF file
+MYC	inhibition	YY1
+# Reference PMID: SIF file
+MYC	inhibition	SMAD3
+# Reference PMID: SIF file
+MYC	inhibition	SMAD2
+# Reference PMID: SIF file
+MYC	stimulation	apoptotic_process
+# Reference PMID: SIF file
+MYC	bimodal	cell-cell_adhesion
+# Reference PMID: SIF file
+MYC	inhibition	cell-matrix_adhesion
+# Reference PMID: SIF file
+MYC	stimulation	cell_division
+# Reference PMID: SIF file
+HRAS	stimulation	PIK3CA
+# Reference PMID: SIF file
+HRAS	stimulation	SIGNOR-C156
+# Reference PMID: SIF file
+HRAS	stimulation	apoptotic_process
+# Reference PMID: SIF file
+HRAS	stimulation	cell_migration
+# Reference PMID: SIF file
+KRAS	stimulation	TCF3
+# Reference PMID: SIF file
+KRAS	stimulation	PIK3CA
+# Reference PMID: SIF file
+KRAS	stimulation	SIGNOR-C156
+# Reference PMID: SIF file
+KRAS	stimulation	apoptotic_process
+# Reference PMID: SIF file
+KRAS	stimulation	cell_migration
+# Reference PMID: SIF file
+ESR1	inhibition	SNAI2
+# Reference PMID: SIF file
+ESR1	stimulation	CCND1
+# Reference PMID: SIF file
+ESR1	stimulation	PIK3R1
+# Reference PMID: SIF file
+ESR1	stimulation	SIGNOR-C156
+# Reference PMID: SIF file
+TP53	stimulation	MDM2
+# Reference PMID: SIF file
+TP53	stimulation	SIAH1
+# Reference PMID: SIF file
+TP53	stimulation	apoptotic_process
+# Reference PMID: SIF file
+TP53	stimulation	cell-cell_adhesion
+# Reference PMID: SIF file
+TP53	stimulation	cell_division
+# Reference PMID: SIF file
+TP53	stimulation	cell_migration
+# Reference PMID: SIF file
+TP53	stimulation	extracellular_matrix_disassembly
+# Reference PMID: SIF file
+CDH1	stimulation	CTNNB1
+# Reference PMID: SIF file
+CDH1	stimulation	SIGNOR-C186
+# Reference PMID: SIF file
+CDH1	stimulation	cell-cell_adhesion
+# Reference PMID: SIF file
+CDH1	stimulation	cell_migration
+# Reference PMID: SIF file
+SRC	stimulation	DAB1
+# Reference PMID: SIF file
+SRC	stimulation	ABL1
+# Reference PMID: SIF file
+SRC	inhibition	HRAS
+# Reference PMID: SIF file
+SRC	stimulation	KRAS
+# Reference PMID: SIF file
+SRC	stimulation	ESR1
+# Reference PMID: SIF file
+SRC	inhibition	TP53
+# Reference PMID: SIF file
+SRC	inhibition	CDH1
+# Reference PMID: SIF file
+SRC	inhibition	CDH2
+# Reference PMID: SIF file
+SRC	inhibition	YY1
+# Reference PMID: SIF file
+SRC	stimulation	AKT1
+# Reference PMID: SIF file
+SRC	stimulation	CTNNB1
+# Reference PMID: SIF file
+SRC	stimulation	TGFBR2
+# Reference PMID: SIF file
+SRC	stimulation	PRKCI
+# Reference PMID: SIF file
+SRC	stimulation	PTEN
+# Reference PMID: SIF file
+SRC	stimulation	RAC1
+# Reference PMID: SIF file
+SRC	stimulation	PTK2
+# Reference PMID: SIF file
+SRC	stimulation	PAK2
+# Reference PMID: SIF file
+SRC	stimulation	GAB1
+# Reference PMID: SIF file
+SRC	stimulation	PRKD1
+# Reference PMID: SIF file
+SRC	stimulation	SIGNOR-PF24
+# Reference PMID: SIF file
+SRC	inhibition	SIGNOR-PF43
+# Reference PMID: SIF file
+SRC	stimulation	apoptotic_process
+# Reference PMID: SIF file
+SRC	stimulation	cell-cell_adhesion
+# Reference PMID: SIF file
+SRC	inhibition	cell-matrix_adhesion
+# Reference PMID: SIF file
+SRC	stimulation	cell_division
+# Reference PMID: SIF file
+SRC	stimulation	cell_migration
+# Reference PMID: SIF file
+SRC	inhibition	epithelial_to_mesenchymal_transition
+# Reference PMID: SIF file
+SRC	stimulation	extracellular_matrix_disassembly
+# Reference PMID: SIF file
+TCF3	inhibition	CDH1
+# Reference PMID: SIF file
+TCF3	stimulation	NOTCH1
+# Reference PMID: SIF file
+TCF3	inhibition	apoptotic_process
+# Reference PMID: SIF file
+CREB1	inhibition	SNAI2
+# Reference PMID: SIF file
+CREB1	inhibition	SNAI1
+# Reference PMID: SIF file
+CREB1	stimulation	CTNNB1
+# Reference PMID: SIF file
+CREB1	stimulation	apoptotic_process
+# Reference PMID: SIF file
+CREB1	stimulation	cell-cell_adhesion
+# Reference PMID: SIF file
+CREB1	stimulation	cell-matrix_adhesion
+# Reference PMID: SIF file
+CREB1	stimulation	cell_migration
+# Reference PMID: SIF file
+CDH2	stimulation	CTNNB1
+# Reference PMID: SIF file
+CDH2	stimulation	cell-cell_adhesion
+# Reference PMID: SIF file
+CDH2	stimulation	cell_migration
+# Reference PMID: SIF file
+CCND1	stimulation	NOTCH1
+# Reference PMID: SIF file
+CCND1	stimulation	cell_division
+# Reference PMID: SIF file
+YY1	inhibition	MYC
+# Reference PMID: SIF file
+YY1	inhibition	NOTCH1
+# Reference PMID: SIF file
+YY1	inhibition	apoptotic_process
+# Reference PMID: SIF file
+PIK3R1	stimulation	PIK3CA
+# Reference PMID: SIF file
+PIK3R1	form_complex	SIGNOR-C156
+# Reference PMID: SIF file
+PIK3R1	stimulation	cell_migration
+# Reference PMID: SIF file
+AKT1	stimulation	ESR1
+# Reference PMID: SIF file
+AKT1	stimulation	VIM
+# Reference PMID: SIF file
+AKT1	stimulation	CREB1
+# Reference PMID: SIF file
+AKT1	stimulation	CTNNB1
+# Reference PMID: SIF file
+AKT1	inhibition	YAP1
+# Reference PMID: SIF file
+AKT1	inhibition	RAC1
+# Reference PMID: SIF file
+AKT1	stimulation	JAG1
+# Reference PMID: SIF file
+AKT1	inhibition	SMAD3
+# Reference PMID: SIF file
+AKT1	stimulation	MDM2
+# Reference PMID: SIF file
+AKT1	stimulation	PTK2
+# Reference PMID: SIF file
+AKT1	stimulation	TWIST1
+# Reference PMID: SIF file
+AKT1	inhibition	apoptotic_process
+# Reference PMID: SIF file
+AKT1	inhibition	cell-matrix_adhesion
+# Reference PMID: SIF file
+AKT1	stimulation	cell_division
+# Reference PMID: SIF file
+AKT1	bimodal	cell_migration
+# Reference PMID: SIF file
+AKT1	inhibition	epithelial_to_mesenchymal_transition
+# Reference PMID: SIF file
+CTNNB1	stimulation	MYC
+# Reference PMID: SIF file
+CTNNB1	stimulation	CCND1
+# Reference PMID: SIF file
+CTNNB1	stimulation	NOTCH1
+# Reference PMID: SIF file
+CTNNB1	stimulation	RUNX2
+# Reference PMID: SIF file
+CTNNB1	stimulation	apoptotic_process
+# Reference PMID: SIF file
+CTNNB1	stimulation	cell-cell_adhesion
+# Reference PMID: SIF file
+CTNNB1	stimulation	cell-matrix_adhesion
+# Reference PMID: SIF file
+CTNNB1	stimulation	cell_migration
+# Reference PMID: SIF file
+CTNNB1	stimulation	epithelial_to_mesenchymal_transition
+# Reference PMID: SIF file
+TGFBR1	stimulation	PIK3R1
+# Reference PMID: SIF file
+TGFBR1	stimulation	RAC1
+# Reference PMID: SIF file
+TGFBR1	stimulation	SMAD3
+# Reference PMID: SIF file
+TGFBR1	stimulation	SMAD2
+# Reference PMID: SIF file
+TGFBR1	stimulation	SIGNOR-C156
+# Reference PMID: SIF file
+TGFBR1	stimulation	apoptotic_process
+# Reference PMID: SIF file
+TGFBR1	stimulation	cell-cell_adhesion
+# Reference PMID: SIF file
+TGFBR1	stimulation	cell-matrix_adhesion
+# Reference PMID: SIF file
+TGFBR1	stimulation	cell_migration
+# Reference PMID: SIF file
+TGFBR1	stimulation	epithelial_to_mesenchymal_transition
+# Reference PMID: SIF file
+TGFBR2	stimulation	PIK3R1
+# Reference PMID: SIF file
+TGFBR2	stimulation	TGFBR1
+# Reference PMID: SIF file
+TGFBR2	stimulation	SIGNOR-C156
+# Reference PMID: SIF file
+TGFBR2	stimulation	apoptotic_process
+# Reference PMID: SIF file
+TGFBR2	stimulation	cell_division
+# Reference PMID: SIF file
+TGFBR2	stimulation	epithelial_to_mesenchymal_transition
+# Reference PMID: SIF file
+PRKCI	stimulation	VIM
+# Reference PMID: SIF file
+PRKCI	inhibition	apoptotic_process
+# Reference PMID: SIF file
+PRKCI	stimulation	cell_division
+# Reference PMID: SIF file
+PRKCI	stimulation	cell_migration
+# Reference PMID: SIF file
+PIK3CA	stimulation	PIK3R1
+# Reference PMID: SIF file
+PIK3CA	stimulation	AKT1
+# Reference PMID: SIF file
+PIK3CA	stimulation	RAC1
+# Reference PMID: SIF file
+PIK3CA	form_complex	SIGNOR-C156
+# Reference PMID: SIF file
+PIK3CA	stimulation	SIGNOR-PF24
+# Reference PMID: SIF file
+PIK3CA	stimulation	cell_migration
+# Reference PMID: SIF file
+MAPK8	stimulation	MYC
+# Reference PMID: SIF file
+MAPK8	stimulation	TP53
+# Reference PMID: SIF file
+MAPK8	stimulation	AKT1
+# Reference PMID: SIF file
+MAPK8	inhibition	CTBP1
+# Reference PMID: SIF file
+MAPK8	stimulation	TWIST1
+# Reference PMID: SIF file
+MAPK8	bimodal	apoptotic_process
+# Reference PMID: SIF file
+MAPK8	bimodal	cell-cell_adhesion
+# Reference PMID: SIF file
+MAPK8	stimulation	cell-matrix_adhesion
+# Reference PMID: SIF file
+MAPK8	inhibition	cell_division
+# Reference PMID: SIF file
+MAPK8	inhibition	cell_migration
+# Reference PMID: SIF file
+NOTCH1	stimulation	MYC
+# Reference PMID: SIF file
+NOTCH1	inhibition	TCF3
+# Reference PMID: SIF file
+NOTCH1	stimulation	HIF1A
+# Reference PMID: SIF file
+NOTCH1	stimulation	SIGNOR-C29
+# Reference PMID: SIF file
+NOTCH1	stimulation	apoptotic_process
+# Reference PMID: SIF file
+NOTCH1	stimulation	cell-cell_adhesion
+# Reference PMID: SIF file
+NOTCH1	stimulation	cell-matrix_adhesion
+# Reference PMID: SIF file
+NOTCH1	stimulation	cell_migration
+# Reference PMID: SIF file
+NOTCH1	stimulation	epithelial_to_mesenchymal_transition
+# Reference PMID: SIF file
+YAP1	stimulation	TP73
+# Reference PMID: SIF file
+YAP1	stimulation	CTNNB1
+# Reference PMID: SIF file
+YAP1	inhibition	RUNX2
+# Reference PMID: SIF file
+YAP1	stimulation	SMAD1
+# Reference PMID: SIF file
+YAP1	stimulation	apoptotic_process
+# Reference PMID: SIF file
+YAP1	stimulation	cell_division
+# Reference PMID: SIF file
+YAP1	stimulation	cell_migration
+# Reference PMID: SIF file
+PTEN	inhibition	SRC
+# Reference PMID: SIF file
+PTEN	inhibition	CREB1
+# Reference PMID: SIF file
+PTEN	inhibition	AKT1
+# Reference PMID: SIF file
+PTEN	inhibition	PIK3CA
+# Reference PMID: SIF file
+PTEN	inhibition	PTK2
+# Reference PMID: SIF file
+PTEN	inhibition	SIGNOR-C156
+# Reference PMID: SIF file
+PTEN	inhibition	SIGNOR-PF24
+# Reference PMID: SIF file
+PTEN	stimulation	apoptotic_process
+# Reference PMID: SIF file
+PTEN	stimulation	cell_division
+# Reference PMID: SIF file
+PTEN	bimodal	cell_migration
+# Reference PMID: SIF file
+RAC1	stimulation	MAPK8
+# Reference PMID: SIF file
+RAC1	stimulation	PAK2
+# Reference PMID: SIF file
+RAC1	stimulation	ROCK1
+# Reference PMID: SIF file
+RAC1	stimulation	MAPK14
+# Reference PMID: SIF file
+RAC1	stimulation	SIGNOR-PF13
+# Reference PMID: SIF file
+RAC1	stimulation	apoptotic_process
+# Reference PMID: SIF file
+RAC1	stimulation	cell-cell_adhesion
+# Reference PMID: SIF file
+RAC1	stimulation	cell-matrix_adhesion
+# Reference PMID: SIF file
+RAC1	stimulation	cell_migration
+# Reference PMID: SIF file
+CSNK2A1	stimulation	SNAI1
+# Reference PMID: SIF file
+CSNK2A1	inhibition	MYC
+# Reference PMID: SIF file
+CSNK2A1	inhibition	ESR1
+# Reference PMID: SIF file
+CSNK2A1	bimodal	TP53
+# Reference PMID: SIF file
+CSNK2A1	stimulation	CDH1
+# Reference PMID: SIF file
+CSNK2A1	stimulation	YY1
+# Reference PMID: SIF file
+CSNK2A1	stimulation	PIK3R1
+# Reference PMID: SIF file
+CSNK2A1	stimulation	AKT1
+# Reference PMID: SIF file
+CSNK2A1	stimulation	CTNNB1
+# Reference PMID: SIF file
+CSNK2A1	inhibition	PTEN
+# Reference PMID: SIF file
+CSNK2A1	stimulation	TWIST1
+# Reference PMID: SIF file
+CSNK2A1	stimulation	SIGNOR-PF24
+# Reference PMID: SIF file
+CSNK2A1	stimulation	apoptotic_process
+# Reference PMID: SIF file
+CSNK2A1	bimodal	cell-cell_adhesion
+# Reference PMID: SIF file
+CSNK2A1	stimulation	cell-matrix_adhesion
+# Reference PMID: SIF file
+CSNK2A1	stimulation	cell_division
+# Reference PMID: SIF file
+CSNK2A1	stimulation	cell_migration
+# Reference PMID: SIF file
+CSNK2A1	stimulation	epithelial_to_mesenchymal_transition
+# Reference PMID: SIF file
+JAG1	stimulation	NOTCH1
+# Reference PMID: SIF file
+JAG1	stimulation	apoptotic_process
+# Reference PMID: SIF file
+SMAD3	inhibition	MYC
+# Reference PMID: SIF file
+SMAD3	stimulation	NOTCH1
+# Reference PMID: SIF file
+SMAD3	inhibition	RUNX2
+# Reference PMID: SIF file
+SMAD3	inhibition	apoptotic_process
+# Reference PMID: SIF file
+SMAD3	inhibition	cell-cell_adhesion
+# Reference PMID: SIF file
+SMAD3	inhibition	cell_division
+# Reference PMID: SIF file
+SMAD3	stimulation	epithelial_to_mesenchymal_transition
+# Reference PMID: SIF file
+MDM2	inhibition	TP73
+# Reference PMID: SIF file
+MDM2	inhibition	TP53
+# Reference PMID: SIF file
+MDM2	stimulation	NOTCH1
+# Reference PMID: SIF file
+MDM2	inhibition	HIF1A
+# Reference PMID: SIF file
+MDM2	bimodal	apoptotic_process
+# Reference PMID: SIF file
+MDM2	inhibition	cell_migration
+# Reference PMID: SIF file
+MDM2	inhibition	epithelial_to_mesenchymal_transition
+# Reference PMID: SIF file
+MDM2	inhibition	extracellular_matrix_disassembly
+# Reference PMID: SIF file
+PTK2	stimulation	TRIO
+# Reference PMID: SIF file
+PTK2	stimulation	PIK3R1
+# Reference PMID: SIF file
+PTK2	stimulation	SIGNOR-C156
+# Reference PMID: SIF file
+PTK2	stimulation	cell-cell_adhesion
+# Reference PMID: SIF file
+PTK2	stimulation	cell_migration
+# Reference PMID: SIF file
+PAK2	inhibition	ABL1
+# Reference PMID: SIF file
+PAK2	inhibition	VIM
+# Reference PMID: SIF file
+PAK2	bimodal	apoptotic_process
+# Reference PMID: SIF file
+ATM	stimulation	ABL1
+# Reference PMID: SIF file
+ATM	stimulation	TP53
+# Reference PMID: SIF file
+ATM	inhibition	CREB1
+# Reference PMID: SIF file
+ATM	inhibition	AKT1
+# Reference PMID: SIF file
+ATM	inhibition	MDM2
+# Reference PMID: SIF file
+ATM	stimulation	SMAD1
+# Reference PMID: SIF file
+ATM	stimulation	HIF1A
+# Reference PMID: SIF file
+ATM	inhibition	SIAH1
+# Reference PMID: SIF file
+ATM	inhibition	TP63
+# Reference PMID: SIF file
+ATM	inhibition	SIGNOR-PF24
+# Reference PMID: SIF file
+ATM	stimulation	apoptotic_process
+# Reference PMID: SIF file
+ATM	stimulation	cell_division
+# Reference PMID: SIF file
+CTBP1	stimulation	ZEB2
+# Reference PMID: SIF file
+CTBP1	inhibition	CDH1
+# Reference PMID: SIF file
+CTBP1	inhibition	apoptotic_process
+# Reference PMID: SIF file
+ROCK1	inhibition	VIM
+# Reference PMID: SIF file
+ROCK1	stimulation	MAPK8
+# Reference PMID: SIF file
+ROCK1	stimulation	PTEN
+# Reference PMID: SIF file
+ROCK1	stimulation	cell-cell_adhesion
+# Reference PMID: SIF file
+ROCK1	bimodal	cell_migration
+# Reference PMID: SIF file
+ROCK1	stimulation	epithelial_to_mesenchymal_transition
+# Reference PMID: SIF file
+GAB1	stimulation	PIK3CA
+# Reference PMID: SIF file
+GAB1	stimulation	SIGNOR-C156
+# Reference PMID: SIF file
+RUNX2	stimulation	SNAI2
+# Reference PMID: SIF file
+RUNX2	inhibition	NOTCH1
+# Reference PMID: SIF file
+RUNX2	stimulation	TWIST1
+# Reference PMID: SIF file
+RUNX2	stimulation	apoptotic_process
+# Reference PMID: SIF file
+RUNX2	stimulation	cell-cell_adhesion
+# Reference PMID: SIF file
+RUNX2	stimulation	epithelial_to_mesenchymal_transition
+# Reference PMID: SIF file
+RUNX2	stimulation	extracellular_matrix_disassembly
+# Reference PMID: SIF file
+PRKD1	inhibition	SNAI1
+# Reference PMID: SIF file
+PRKD1	stimulation	CDH1
+# Reference PMID: SIF file
+PRKD1	stimulation	PIK3R1
+# Reference PMID: SIF file
+PRKD1	stimulation	CTNNB1
+# Reference PMID: SIF file
+PRKD1	stimulation	apoptotic_process
+# Reference PMID: SIF file
+PRKD1	stimulation	cell-cell_adhesion
+# Reference PMID: SIF file
+PRKD1	bimodal	cell_migration
+# Reference PMID: SIF file
+TWIST1	stimulation	SNAI2
+# Reference PMID: SIF file
+TWIST1	inhibition	CDH1
+# Reference PMID: SIF file
+TWIST1	inhibition	CSNK2A1
+# Reference PMID: SIF file
+TWIST1	stimulation	ATM
+# Reference PMID: SIF file
+TWIST1	inhibition	RUNX2
+# Reference PMID: SIF file
+TWIST1	stimulation	cell-cell_adhesion
+# Reference PMID: SIF file
+TWIST1	stimulation	cell-matrix_adhesion
+# Reference PMID: SIF file
+TWIST1	stimulation	cell_migration
+# Reference PMID: SIF file
+TWIST1	stimulation	epithelial_to_mesenchymal_transition
+# Reference PMID: SIF file
+TWIST1	stimulation	extracellular_matrix_disassembly
+# Reference PMID: SIF file
+SMAD2	stimulation	CREB1
+# Reference PMID: SIF file
+SMAD2	stimulation	apoptotic_process
+# Reference PMID: SIF file
+SMAD2	stimulation	epithelial_to_mesenchymal_transition
+# Reference PMID: SIF file
+SMAD1	stimulation	SMAD6
+# Reference PMID: SIF file
+SMAD1	stimulation	RUNX2
+# Reference PMID: SIF file
+SMAD1	stimulation	apoptotic_process
+# Reference PMID: SIF file
+SMAD1	stimulation	epithelial_to_mesenchymal_transition
+# Reference PMID: SIF file
+MAPK14	stimulation	ESR1
+# Reference PMID: SIF file
+MAPK14	stimulation	TP53
+# Reference PMID: SIF file
+MAPK14	stimulation	TCF3
+# Reference PMID: SIF file
+MAPK14	inhibition	CCND1
+# Reference PMID: SIF file
+MAPK14	stimulation	SMAD3
+# Reference PMID: SIF file
+MAPK14	stimulation	RUNX2
+# Reference PMID: SIF file
+MAPK14	stimulation	TWIST1
+# Reference PMID: SIF file
+MAPK14	stimulation	HIF1A
+# Reference PMID: SIF file
+MAPK14	inhibition	TP63
+# Reference PMID: SIF file
+MAPK14	bimodal	SIGNOR-PF24
+# Reference PMID: SIF file
+MAPK14	stimulation	apoptotic_process
+# Reference PMID: SIF file
+MAPK14	inhibition	cell-cell_adhesion
+# Reference PMID: SIF file
+MAPK14	inhibition	cell-matrix_adhesion
+# Reference PMID: SIF file
+MAPK14	inhibition	cell_division
+# Reference PMID: SIF file
+MAPK14	stimulation	cell_migration
+# Reference PMID: SIF file
+MAPK14	inhibition	epithelial_to_mesenchymal_transition
+# Reference PMID: SIF file
+HIF1A	stimulation	apoptotic_process
+# Reference PMID: SIF file
+HIF1A	stimulation	cell-cell_adhesion
+# Reference PMID: SIF file
+HIF1A	stimulation	epithelial_to_mesenchymal_transition
+# Reference PMID: SIF file
+SIAH1	stimulation	NOTCH1
+# Reference PMID: SIF file
+SIAH1	bimodal	apoptotic_process
+# Reference PMID: SIF file
+TP63	stimulation	apoptotic_process
+# Reference PMID: SIF file
+TP63	stimulation	cell-cell_adhesion
+# Reference PMID: SIF file
+SIGNOR-C156	stimulation	AKT1
+# Reference PMID: SIF file
+SIGNOR-C156	stimulation	RAC1
+# Reference PMID: SIF file
+SIGNOR-C156	stimulation	SIGNOR-PF24
+# Reference PMID: SIF file
+SIGNOR-C156	inhibition	apoptotic_process
+# Reference PMID: SIF file
+SIGNOR-C156	stimulation	cell_migration
+# Reference PMID: SIF file
+SIGNOR-C186	stimulation	PTK2
+# Reference PMID: SIF file
+SIGNOR-C29	stimulation	SMAD1
+# Reference PMID: SIF file
+SIGNOR-PF13	inhibition	VIM
+# Reference PMID: SIF file
+SIGNOR-PF24	stimulation	ESR1
+# Reference PMID: SIF file
+SIGNOR-PF24	stimulation	VIM
+# Reference PMID: SIF file
+SIGNOR-PF24	stimulation	CREB1
+# Reference PMID: SIF file
+SIGNOR-PF24	stimulation	CTNNB1
+# Reference PMID: SIF file
+SIGNOR-PF24	inhibition	YAP1
+# Reference PMID: SIF file
+SIGNOR-PF24	inhibition	RAC1
+# Reference PMID: SIF file
+SIGNOR-PF24	inhibition	SMAD3
+# Reference PMID: SIF file
+SIGNOR-PF24	stimulation	MDM2
+# Reference PMID: SIF file
+SIGNOR-PF24	stimulation	TWIST1
+# Reference PMID: SIF file
+SIGNOR-PF24	inhibition	MAPK14
+# Reference PMID: SIF file
+SIGNOR-PF24	inhibition	apoptotic_process
+# Reference PMID: SIF file
+SIGNOR-PF24	inhibition	cell-matrix_adhesion
+# Reference PMID: SIF file
+SIGNOR-PF24	stimulation	cell_division
+# Reference PMID: SIF file
+SIGNOR-PF24	inhibition	cell_migration
+# Reference PMID: SIF file
+SIGNOR-PF24	inhibition	epithelial_to_mesenchymal_transition
+# Reference PMID: SIF file
+SIGNOR-PF43	inhibition	YAP1
+# Reference PMID: nan
+LAMC1	stimulation	PIK3R1
+# Reference PMID: nan
+LAMC1	stimulation	RAC1
+# Reference PMID: nan
+LAMC1	stimulation	AKT1
+# Reference PMID: nan
+LAMC1	stimulation	PIK3CA
+# Reference PMID: nan
+FN1	stimulation	PIK3R1
+# Reference PMID: nan
+FN1	stimulation	SRC
+# Reference PMID: Lit-BM-17:19738201
+FN1	stimulation	RAC1
+# Reference PMID: nan
+FN1	stimulation	PIK3CA
+# Reference PMID: nan
+FN1	inhibition	MAPK14
+# Reference PMID: SPIKE:16849332;SPIKE_LC:16849332
+XPC	stimulation	ATM
+# Reference PMID: CollecTRI:29474172
+SIRT6	inhibition	TP53
